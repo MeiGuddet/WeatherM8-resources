@@ -6,6 +6,7 @@
     <string name="app_translation_author">MASVA</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Molimo pričekajte…</string>
     <string name="downloading">Preuzimanje…</string>
     <string name="download_failed">Preuzimanje nije uspjelo. Pokušajte ponovo kasnije</string>
@@ -181,6 +182,11 @@
     <string name="prefs_icons_skin_title">Izgled ikona vremena</string>
     <string name="prefs_icons_skin_builtin">Ugrađeno</string>
     <string name="prefs_icons_skin_available">Dostupno</string>
+
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Lokacija</string>
+    <string name="settings_autolocate_title">Automatski pronađi</string>
+    <string name="settings_autolocate_summary">Automatski pronađi uređaj</string>
 	 
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Izvor podataka</string>
@@ -191,6 +197,10 @@
     <string name="prefs_data_order">Redoslijed podataka o vremenu</string>
     <string name="prefs_data_feelslike_as_main_summary">Prikaži temperaturu stvar. osjećaja kao glavnu temperaturu</string>
     <string name="prefs_data_feelslike_as_main_title">Stvar. osjećaj kao glavna temperatura</string>
+
+    <string name="prefs_pressure_level_title">Prikaži tlak za</string>
+    <string name="prefs_pressure_level_default">Zadano</string>
+    <string name="prefs_pressure_level_sensor">Osjetnik tlaka telefona</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ažuriranje podataka</string>

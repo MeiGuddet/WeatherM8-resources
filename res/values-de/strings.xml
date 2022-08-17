@@ -6,6 +6,7 @@
     <string name="app_translation_author">MIUI Germany, Hen_Ry</string>
 
     <!-- Common strings -->
+    <string name="app_language">Sprache</string>
     <string name="wait">Bitte warten…</string>
     <string name="downloading">Herunterladen…</string>
     <string name="download_failed">Herunterladen fehlgeschlagen. Später erneut versuchen</string>
@@ -194,6 +195,11 @@
     <string name="prefs_icons_skin_builtin">Eingebaut</string>
     <string name="prefs_icons_skin_available">Verfügbar</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Ort</string>
+    <string name="settings_autolocate_title">Autom. lokalisieren</string>
+    <string name="settings_autolocate_summary">Geräte autom. lokalisieren</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Datenquelle</string>
     <string name="prefs_data_source_citydb">Ortsdatenbank</string>
@@ -203,6 +209,10 @@
     <string name="prefs_data_order">Reihenfolge Wetterdaten</string>
     <string name="prefs_data_feelslike_as_main_title">Fühlt sich wie die Haupttemperatur an</string>
     <string name="prefs_data_feelslike_as_main_summary">Real gefühlte Temperatur als Hauptwettertemperatur anzeigen</string>
+
+    <string name="prefs_pressure_level_title">Druck anzeigen für</string>
+    <string name="prefs_pressure_level_default">Standard</string>
+    <string name="prefs_pressure_level_sensor">Telefon-Drucksensor</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Daten aktualisieren</string>
@@ -214,6 +224,8 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">Ende</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
     <string name="prefs_data_update_quiet_hours_title">Ruhestunden</string>
+    <string name="prefs_data_update_dkma_title">Daten werden nicht aktualisiert?</string>
+    <string name="prefs_data_update_dkma_summary">Wie Sie es für Ihren Telefonhersteller einrichten</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Einheiten</string>

@@ -6,6 +6,7 @@
     <string name="app_translation_author">Nicolás Berrutti, Jaime Muñoz Martín</string>
 
     <!-- Common strings -->
+    <string name="app_language">Idioma</string>
     <string name="wait">Espere por favor…</string>
     <string name="downloading">Descargando…</string>
     <string name="download_failed">Descarga fracasó. Vuelva a intentarlo más tarde</string>
@@ -182,6 +183,11 @@
     <string name="prefs_icons_skin_builtin">Incorporados</string>
     <string name="prefs_icons_skin_available">Disponible</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Ubicación</string>
+    <string name="settings_autolocate_title">Ubicación automática</string>
+    <string name="settings_autolocate_summary">Ubica su dispositivo automáticamente</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Fuente de datos</string>
     <string name="prefs_data_source_citydb">Base de datos de ciudades</string>
@@ -191,6 +197,10 @@
     <string name="prefs_data_order">Orden de los datos meteorológicos</string>
     <string name="prefs_data_feelslike_as_main_title">Sensación térmica como temperatura principal</string>
     <string name="prefs_data_feelslike_as_main_summary">Muestra la temperatura de sensación real como temperatura principal</string>
+
+    <string name="prefs_pressure_level_title">Mostrar la presión para</string>
+    <string name="prefs_pressure_level_default">Defecto</string>
+    <string name="prefs_pressure_level_sensor">Sensor de presión del teléfono</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualización de datos</string>

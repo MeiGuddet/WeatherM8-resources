@@ -6,6 +6,7 @@
     <string name="app_translation_author">trybit, Jan Folta (GUTEK)</string>
 
     <!-- Common strings -->
+    <string name="app_language">Język</string>
     <string name="wait">Proszę czekać…</string>
     <string name="downloading">Ściąganie…</string>
     <string name="download_failed">Pobieranie nie udane. Spróbuj ponownie później</string>
@@ -182,6 +183,11 @@
     <string name="prefs_icons_skin_builtin">Wbudowany</string>
     <string name="prefs_icons_skin_available">Dostępny</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Lokalizacja</string>
+    <string name="settings_autolocate_title">Autolokalizacja</string>
+    <string name="settings_autolocate_summary">Automatycznie zlokalizuj swoje urządzenie</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Źródło danych</string>
     <string name="prefs_data_source_citydb">Baza miast</string>
@@ -191,6 +197,10 @@
     <string name="prefs_data_order">Kolejność danych pogodowych</string>
     <string name="prefs_data_feelslike_as_main_summary">Wyświetlaj temperaturę odczuwalną jako główną temperaturę pogody</string>
     <string name="prefs_data_feelslike_as_main_title">Pokazuj temperaturę odczuwalną</string>
+
+    <string name="prefs_pressure_level_title">Pokazuj ciśnienie dla</string>
+    <string name="prefs_pressure_level_default">Domyślne</string>
+    <string name="prefs_pressure_level_sensor">Czujnik ciśnienia telefonu</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Aktualizacja danych</string>

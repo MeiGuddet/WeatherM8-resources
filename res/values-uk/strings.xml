@@ -6,6 +6,7 @@
     <string name="app_translation_author">Євген Гіль</string>
 
     <!-- Common strings -->
+    <string name="app_language">Мова</string>
     <string name="wait">Будь ласка, зачекайте…</string>
     <string name="downloading">Завантаження…</string>
     <string name="download_failed">Не вдалося завантажити. Спробуйте ще раз пізніше</string>
@@ -183,6 +184,11 @@
     <string name="prefs_icons_skin_builtin">Вбудовані</string>
     <string name="prefs_icons_skin_available">Доступні</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Location</string>
+    <string name="settings_autolocate_title">Auto locate</string>
+    <string name="settings_autolocate_summary">Automatically locate your device</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Джерело даних</string>
     <string name="prefs_data_source_citydb">База міст</string>
@@ -192,6 +198,10 @@
     <string name="prefs_data_order">Порядок відображення даних</string>
     <string name="prefs_data_feelslike_as_main_title">Відчувається як основна температура</string>
     <string name="prefs_data_feelslike_as_main_summary">Як основна відображатиметься температура, що відчувається</string>
+
+    <string name="prefs_pressure_level_title">Показувати тиск для</string>
+    <string name="prefs_pressure_level_default">За умовчанням</string>
+    <string name="prefs_pressure_level_sensor">Датчик тиску телефону</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Оновлення даних</string>
@@ -228,7 +238,7 @@
     <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
-    <string name="prefs_about">Про програму</string>
+    <string name="prefs_about">Про застосунок</string>
     <string name="prefs_app_version">Поточна версія</string>
     <string name="prefs_app_url">Сайт</string>
     <string name="prefs_permissions_privacy">Політика конфіденційності</string>

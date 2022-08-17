@@ -6,6 +6,7 @@
     <string name="app_translation_author">Ignis_su, Lippe35</string>
 
     <!-- Common strings -->
+    <string name="app_language">Lingua</string>
     <string name="wait">Please wait…</string>
     <string name="downloading">Downloading…</string>
     <string name="download_failed">Download failed. Try again later</string>
@@ -186,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Posizione</string>
+    <string name="settings_autolocate_title">Posizione automatica</string>
+    <string name="settings_autolocate_summary">Ottieni automaticamente la posizione del dispositivo</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">Database delle città</string>
@@ -195,6 +201,10 @@
     <string name="prefs_data_order">Ordine di informazioni visualizzato</string>
     <string name="prefs_data_feelslike_as_main_summary">Mostra le informazioni sulla sensazione termica come temperatura principale</string>
     <string name="prefs_data_feelslike_as_main_title">Sensazione termico</string>
+
+    <string name="prefs_pressure_level_title">Dati di pressione</string>
+    <string name="prefs_pressure_level_default">Predefinito</string>
+    <string name="prefs_pressure_level_sensor">Sensore di pressione (se disponibile)</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Data update</string>

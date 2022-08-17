@@ -6,6 +6,7 @@
     <string name="app_translation_author">Abhishek</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Please wait…</string>
     <string name="downloading">Downloading…</string>
     <string name="download_failed">Download failed. Try again later</string>
@@ -186,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Location</string>
+    <string name="settings_autolocate_title">Auto locate</string>
+    <string name="settings_autolocate_summary">Automatically locate your device</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">शहर का आंकड़ा</string>
@@ -195,6 +201,10 @@
     <string name="prefs_data_order">Weather data order</string>
     <string name="prefs_data_feelslike_as_main_summary">मुख्य मौसम के तापमान के रूप में वास्तविक अनुभव तापमान दिखाएं</string>
     <string name="prefs_data_feelslike_as_main_title">मुख्य तापमान के रूप में अनुभव जैसा</string>
+
+    <string name="prefs_pressure_level_title">दबाव प्रदर्शन के लिए</string>
+    <string name="prefs_pressure_level_default">चूक</string>
+    <string name="prefs_pressure_level_sensor">फोन दबाव सेंसर</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">डेटा अपडेट</string>

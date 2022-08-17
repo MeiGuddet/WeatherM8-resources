@@ -6,6 +6,7 @@
     <string name="app_translation_author">Alex Vornicu</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Vă rugăm așteptați…</string>
     <string name="downloading">Se descarcă…</string>
     <string name="download_failed">Descarcarea a eșuat. Încercați din nou mai târziu</string>
@@ -186,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Nativă</string>
     <string name="prefs_icons_skin_available">Disponibilă</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Locaţie</string>
+    <string name="settings_autolocate_title">Localizare automată</string>
+    <string name="settings_autolocate_summary">Localizare automată a dispozitivului</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Sursă de date</string>
     <string name="prefs_data_source_citydb">Baza de date a orașelor</string>
@@ -195,6 +201,10 @@
     <string name="prefs_data_order">Ordinea datelor meteo</string>
     <string name="prefs_data_feelslike_as_main_title">\"Se simte a fi\" ca temperatură principală</string>
     <string name="prefs_data_feelslike_as_main_summary">Se afişează temperatura resimţită ca temperatură meteo principală</string>
+
+    <string name="prefs_pressure_level_title">Afişare presiune pentru</string>
+    <string name="prefs_pressure_level_default">Implicit</string>
+    <string name="prefs_pressure_level_sensor">Senzor de presiune al telefonului</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualizarea datelor</string>

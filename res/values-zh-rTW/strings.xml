@@ -6,6 +6,7 @@
     <string name="app_translation_author">cjh</string>
 
     <!-- Common strings -->
+    <string name="app_language">語言</string>
     <string name="wait">Please wait…</string>
     <string name="downloading">Downloading…</string>
     <string name="download_failed">Download failed. Try again later</string>
@@ -186,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">位置</string>
+    <string name="settings_autolocate_title">自動定位</string>
+    <string name="settings_autolocate_summary">自動尋找設備之位置</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">城市數據庫</string>
@@ -195,6 +201,10 @@
     <string name="prefs_data_order">天氣數據卡片排序</string>
     <string name="prefs_data_feelslike_as_main_title">以體感溫度作為主要溫度</string>
     <string name="prefs_data_feelslike_as_main_summary">將主要溫度顯示更改為體感溫度</string>
+
+    <string name="prefs_pressure_level_title">氣壓數值基準</string>
+    <string name="prefs_pressure_level_default">默認</string>
+    <string name="prefs_pressure_level_sensor">手機氣壓感測器</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">數據更新</string>

@@ -6,6 +6,7 @@
     <string name="app_translation_author">Spyros Kaparos</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Παρακαλώ περιμένετε…</string>
     <string name="downloading">Λήψη…</string>
     <string name="download_failed">Σφάλμα λήψης. Δοκιμάστε αργότερα</string>
@@ -181,6 +182,11 @@
     <string name="prefs_icons_skin_builtin">Ενσωματωμένα</string>
     <string name="prefs_icons_skin_available">Διαθέσιμα</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Τοποθεσία</string>
+    <string name="settings_autolocate_title">Αυτόματος εντοπισμός</string>
+    <string name="settings_autolocate_summary">Αυτόματος εντοπισμός της συσκευή σας</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Πηγή δεδομένων</string>
     <string name="prefs_data_source_citydb">Δεδομένα Πόλης</string>
@@ -190,6 +196,10 @@
     <string name="prefs_data_order">Συλλογή δεδομένων καιρού</string>
     <string name="prefs_data_feelslike_as_main_title">Θερμοκρασία αίσθησης σαν κύρια </string>
     <string name="prefs_data_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
+
+    <string name="prefs_pressure_level_title">Εμφάνιση πίεσης από</string>
+    <string name="prefs_pressure_level_default">Προκαθορισμένο</string>
+    <string name="prefs_pressure_level_sensor">Αισθητήρα πίεσης τηλεφώνου</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ενημέρωση δεδομένων</string>
